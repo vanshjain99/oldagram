@@ -59,7 +59,7 @@ function renderPost(){
                             <img class="comment-icon interaction-icon" alt="comment" src="images/icon-comment.png">
                             <img class="share-icon interaction-icon" alt="share" src="images/icon-dm.png">
                         </div>
-                        <p class="post-body-likes">${currentLikes}</p>
+                        <p class="post-body-likes">${currentLikes} Likes</p>
                         <div class="post-body-comment-section">
                             <p class="post-body-username">${currentUsername}</p>
                             <p class="post-body-comment">${currentComment}</p>
